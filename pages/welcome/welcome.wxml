@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="avatar" src="/images/avatar/nana.jpg"></image>
+    <text class="motto">Hello, 宝贝</text>
+    <view class="journey-container" bindtap="onTap">
+        <text class="journey">开启记忆之旅</text>
+    </view>
+</view>
